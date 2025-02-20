@@ -1,0 +1,17 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Sigmar&display=swap');
+
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    align-items: center;
+    background-color: grey;
+    font-family: "Sigmar", serif;
+}
+h1{
+    color: white;
+}
+h3{
+    color: coral;
+}
